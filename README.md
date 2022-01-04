@@ -19,9 +19,23 @@ Course objectives:
 
 
 # Module 0: Introduction to medical imaging and deep learning applications
+**Learning objectives**
+* Understand the basic principles of medical images (X-ray, CT, PET, MRI, OCT, US) with a focus on: 
+	* How medical imaging is used in clinical practice and clinical trials
+	* Principles and acquisition basics of different imaging technologies
+	* Some example cases for disease diagnosis, prognosis and trial endpoints  
+* Understand why deep learning/CNNs are specifically useful for medical imaging problems
+	* What kinds of problems are we currently using deep learning for in medical imaging? (e.g. diagnosis, prognosis, segmentation, automatic labeling and image retrieval, quantifying change) 
+* Understand the unique challenges in applying CNNs to medical images
+* Understand convolutions and how they are uniquely suited to automatic feature extraction with image-based data 
+
 
 ## Notebook 1: Introduction to Medical Imaging Formats
+Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CGrWBK8_74kG5rOBueQ-bjkpKN2kXTmb?usp=sharing)
+
 ## Notebook 2: Classification of PET vs MRI 
+Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras 
+
 
 # Module 1: Alzheimer’s disease classification
 
