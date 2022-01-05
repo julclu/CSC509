@@ -30,17 +30,17 @@ Course objectives:
 * Understand convolutions and how they are uniquely suited to automatic feature extraction with image-based data 
 
 
-## Notebook 1: Introduction to Medical Imaging Formats
+### Notebook 1: Introduction to Medical Imaging Formats
 Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_NB1_Intro_Medical_Imaging_Formats.ipynb)
 
-## Notebook 2: Classification of PET vs MRI 
+### Notebook 2: Classification of PET vs MRI 
 Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_NB2_v0.ipynb)
 
 # Module 1: Alzheimer’s disease classification
 
-## Notebook 1: ADNI data wrangling (PET) 
+### Notebook 1: ADNI data wrangling (PET) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB1_ADNI_PET_DataWrangling.ipynb)
 
 ## Notebook 2: ADNI data wrangling (MRI) 
