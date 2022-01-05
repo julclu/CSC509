@@ -43,13 +43,13 @@ Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple
 ### Notebook 1: ADNI data wrangling (PET) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB1_ADNI_PET_DataWrangling.ipynb)
 
-## Notebook 2: ADNI data wrangling (MRI) 
+### Notebook 2: ADNI data wrangling (MRI) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB2_ADNI_MRI_DataWrangling.ipynb)
-## Notebook 3: AD classification deep learning notebook 
+### Notebook 3: AD classification deep learning notebook 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB3_ADNI_ADClassification.ipynb)
 
 # Module 2: Brain tumor segmentation 
-## Notebook 1: BraTS data processing
+### Notebook 1: BraTS data processing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB1_BraTS_DataProcessing.ipynb)
-## Notebook 2: Brain tumor segmentation 
+### Notebook 2: Brain tumor segmentation 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB2_BraTS_TumorSegmentation.ipynb)
