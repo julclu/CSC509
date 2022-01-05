@@ -1,5 +1,5 @@
 
-# Welcome to CSC509
+# CSC 509 -- Data Science and Machine Learning for Medical Image Analysis
 
 In this GitHub repository, you will find all the notebooks that are required to understand CSC509. 
 
