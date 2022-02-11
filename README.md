@@ -35,14 +35,16 @@ Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visual
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_NB1_Intro_Medical_Imaging_Formats.ipynb)
 
 ### Notebook 2: Classification of PET vs MRI 
-Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_NB2_v0.ipynb)
 
-### Project : T1 vs T2 Classification
-Goal:We learned how to build a basic classifier to identify PET vs MRI images. Recall from the lectures we can have variations in the contrast of the MRI utilizing T1 and T2 weighted signals. In this project we ask you to adopt the notebookbelow and build a CNN model that can classify T1 and T2 MRI images. As part of this exercise, we want you to submit report in google doc/pdf of the following
-	1. What are the differences between a T1 weighted vs T2 weighted MRI? How would it show up when you look at the images? 
-	2. 2.Complete the notebook for T1 vs T2 classification using: a. Adam optimizer and b. SGD optimizer, report your performance when switching these two optimizers. Copy or screen capture, the training performance, confusion matrix, ROC and PRC curves as images in your report showing how the performance changed with different optimizers.
-![image](https://user-images.githubusercontent.com/29581226/153501285-27a708f8-6cc3-4ce7-8fb7-ad0fa890967d.png)
+Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg (https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_CNN_PET_MRI.ipynb)
+
+### PROJ_2: Classification of T1 vs T2
+Goal: build a classifier that can distingush the T1 vs T2 images. The notebook has already been pointed to the data folder and you will have to do is fill-in the code block
+Descriptions
+We learned how to build a basic classifier to identify PET vs MRI images. Recall from the lectures we can have variations in the contrast of the MRI utilizing T1 and T2 weighted signals. In this project we ask you to adopt the notebook and build a CNN model that can classify T1 and T2 MRI images. As part of this exercise, we want you to submit report in google doc/pdf of the following
+ * What are the differences between a T1 weighted vs T2 weighted MRI? How would it show up when you look at the images?
+ * Complete the notebook for T1 vs T2 classification using: 1. Adam optimizer and 2. SGD optimizer, report your performance when switching these two optimizers. Copy /screen capture, the training performance, confusion matrix, ROC and PRC curves as images in your report showing how the performance changed with different optimizers.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/PROJ_2_T1_T2_Classifier.ipynb)
 
 # Module 1: Alzheimer’s disease classification
