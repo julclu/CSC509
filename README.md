@@ -47,6 +47,9 @@ We learned how to build a basic classifier to identify PET vs MRI images. Recall
  * Complete the notebook for T1 vs T2 classification using: 1. Adam optimizer and 2. SGD optimizer, report your performance when switching these two optimizers. Copy /screen capture, the training performance, confusion matrix, ROC and PRC curves as images in your report showing how the performance changed with different optimizers.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/PROJ_2_T1_T2_Classifier.ipynb)
 
+Solution notebook for Project-2: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/PROJ_2_T1_T2_Classifier_Solution.ipynb)
+
 # Module 1: Alzheimer’s disease classification
 
 ### Notebook 1: ADNI data wrangling (PET) 
