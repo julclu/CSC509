@@ -30,14 +30,14 @@ Course objectives:
 * Understand convolutions and how they are uniquely suited to automatic feature extraction with image-based data 
 
 
-### Notebook 1: Introduction to Medical Imaging Formats
+### Module 0, Notebook 1: Introduction to Medical Imaging Formats
 Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](edit link before class initiation)
 
-### Notebook 2: Classification of PET vs MRI 
+### Module 0, Notebook 2: Classification of PET vs MRI 
 
 Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/julclu/CSC509/blob/spring_2024/Module0/2_15_2023_Module0_Notebook2_SimpleClassification.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_15_2023_Module0_Notebook2_SimpleClassification.ipynb) 
 
 ### PROJ_2: Classification of T1 vs T2
 Goal: build a classifier that can distingush the T1 vs T2 images. The notebook has already been pointed to the data folder and you will have to do is fill-in the code block
