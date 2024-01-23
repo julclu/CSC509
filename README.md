@@ -30,25 +30,29 @@ Course objectives:
 
 
 ### Module 0, Notebook 1: Introduction to Medical Imaging Formats
-Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images  
+Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images
+<br> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](edit link before class initiation)
 
 ### Module 0, Notebook 2: Classification of PET vs MRI 
 
-Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras
+Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras <br> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_15_2023_Module0_Notebook2_SimpleClassification.ipynb) 
 
 # Module 1: Alzheimer’s disease classification
 
 ### Module 1, Notebook 1: Data Processing for ADNI MRI 
-Goal: Learn how to navigate the data processing pipeline. Get familiar with a deep learning dataset and what it looks like. 
+Goal: Learn how to navigate the data processing pipeline. Get familiar with a deep learning dataset and what it looks like. <br> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_20_2024_Module1_NB1_ADNI_Dataset.ipynb)
 
-### Notebook 2: AD classification deep learning notebook 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB2_ADNI_ADClassification.ipynb)
+### Module 1, Notebook 2: AD classification deep learning notebook 
+Goal: Build a classifier that actually solves a real data problem. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_22_2024_Module2_NB2_ADNI_ADClassification.ipynb)
 
 # Module 2: Brain tumor segmentation 
-### Notebook 1: BraTS data processing
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB1_BraTS_DataProcessing.ipynb)
+### Module 2, Notebook 1: BraTS data processing
+Goal: Get familiar with the Nifti file format and understand what kinds of data you're working with; how to manipulate it: <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_07_2024_Module2_NB1_BraTS_DataProcessing.ipynb)
 ### Notebook 2: Brain tumor segmentation 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB2_BraTS_TumorSegmentation.ipynb)
+Goal: Learn how to build a deep learning segmentation algorithm in Keras. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_12_2024_Module2_NB2_BraTS_TumorSegmentation.ipynb)
