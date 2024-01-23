@@ -41,6 +41,7 @@ Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple
 # Module 1: Alzheimer’s disease classification
 
 ### Module 1, Notebook 1: Data Processing for ADNI MRI 
+Goal: Learn how to navigate the data processing pipeline. Get familiar with a deep learning dataset and what it looks like. 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_20_2024_Module1_NB1_ADNI_Dataset.ipynb)
 
 ### Notebook 2: AD classification deep learning notebook 
