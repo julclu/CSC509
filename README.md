@@ -32,7 +32,7 @@ Course objectives:
 ### Module 0, Notebook 1: Introduction to Medical Imaging Formats
 Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images
 <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](edit link before class initiation)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_08_2024_Module0_Notebook1_DataCuration.ipynb) 
 
 ### Module 0, Notebook 2: Classification of PET vs MRI 
 
