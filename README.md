@@ -37,7 +37,7 @@ Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visual
 ### Module 0, Notebook 2: Classification of PET vs MRI 
 
 Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_15_2023_Module0_Notebook2_SimpleClassification.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_15_2024_Module0_Notebook2_SimpleClassification.ipynb) 
 
 # Module 1: Alzheimer’s disease classification
 
