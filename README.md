@@ -20,46 +20,43 @@ Course objectives:
 
 # Module 0: Introduction to medical imaging and deep learning applications
 **Learning objectives**
-* Understand the basic principles of medical images (X-ray, CT, PET, MRI, OCT, US) with a focus on: 
+* Understand the basic principles of medical images
 	* How medical imaging is used in clinical practice and clinical trials
-	* Principles and acquisition basics of different imaging technologies
-	* Some example cases for disease diagnosis, prognosis and trial endpoints  
-* Understand why deep learning/CNNs are specifically useful for medical imaging problems
+	* Basics of different imaging technologies
+	* Example cases for disease diagnosis, prognosis and trial endpoints  
+* Understand why deep learning is useful for medical imaging problems
 	* What kinds of problems are we currently using deep learning for in medical imaging? (e.g. diagnosis, prognosis, segmentation, automatic labeling and image retrieval, quantifying change) 
-* Understand the unique challenges in applying CNNs to medical images
-* Understand convolutions and how they are uniquely suited to automatic feature extraction with image-based data 
+* Understand the unique challenges in applying DL to medical images
 
 
-### Notebook 1: Introduction to Medical Imaging Formats
-Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_NB1_Intro_Medical_Imaging_Formats.ipynb)
+### Module 0, Notebook 1: Introduction to Medical Imaging Formats
+Goal: Understand 2 commonly used medical image formats (dicom, nifti) and visualize medical images
+<br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_08_2024_Module0_Notebook1_DataCuration.ipynb) 
 
-### Notebook 2: Classification of PET vs MRI 
+### Module 0, Notebook 2: Classification of PET vs MRI 
 
-Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/Module0_CNN_PET_MRI.ipynb)
-
-### PROJ_2: Classification of T1 vs T2
-Goal: build a classifier that can distingush the T1 vs T2 images. The notebook has already been pointed to the data folder and you will have to do is fill-in the code block
-Descriptions
-We learned how to build a basic classifier to identify PET vs MRI images. Recall from the lectures we can have variations in the contrast of the MRI utilizing T1 and T2 weighted signals. In this project we ask you to adopt the notebook and build a CNN model that can classify T1 and T2 MRI images. As part of this exercise, we want you to submit report in google doc/pdf of the following
- * What are the differences between a T1 weighted vs T2 weighted MRI? How would it show up when you look at the images?
- * Complete the notebook for T1 vs T2 classification using: 1. Adam optimizer and 2. SGD optimizer, report your performance when switching these two optimizers. Copy /screen capture, the training performance, confusion matrix, ROC and PRC curves as images in your report showing how the performance changed with different optimizers.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/PROJ_2_T1_T2_Classifier.ipynb)
-
-Solution notebook for Project-2: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module0/PROJ_2_T1_T2_Classifier_Solution.ipynb)
+Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple classifier development in Keras <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module0/2_15_2024_Module0_Notebook2_SimpleClassification.ipynb) 
 
 # Module 1: Alzheimer’s disease classification
 
-### Notebook 1: ADNI data wrangling (PET) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB1_ADNI_PET_DataWrangling.ipynb)
+### Module 1, Notebook 1: Data Processing for ADNI MRI 
+Goal: Learn how to navigate the data processing pipeline. Get familiar with a deep learning dataset and what it looks like. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_20_2024_Module1_NB1_ADNI_Dataset.ipynb)
 
-### Notebook 2: AD classification deep learning notebook 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module1/Module1_NB2_ADNI_ADClassification.ipynb)
+### Module 1, Notebook 2: AD classification deep learning notebook 
+Goal: Build a classifier that actually solves a real data problem. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_22_2024_Module2_NB2_ADNI_ADClassification.ipynb)
+
+### Module 1, Notebook 3: Implementing regularization techniques in Keras models
+Goal: Understand the ways to code regularization into neural nets. Understand how it impacts training. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_29_2024_Regularization.ipynb)
 
 # Module 2: Brain tumor segmentation 
-### Notebook 1: BraTS data processing
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB1_BraTS_DataProcessing.ipynb)
+### Module 2, Notebook 1: BraTS data processing
+Goal: Get familiar with the Nifti file format and understand what kinds of data you're working with; how to manipulate it: <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_07_2024_Module2_NB1_BraTS_DataProcessing.ipynb)
 ### Notebook 2: Brain tumor segmentation 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/main/Module2/Module2_NB2_BraTS_TumorSegmentation.ipynb)
+Goal: Learn how to build a deep learning segmentation algorithm in Keras. <br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_12_2024_Module2_NB2_BraTS_TumorSegmentation.ipynb)
