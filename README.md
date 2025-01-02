@@ -59,4 +59,4 @@ Goal: Get familiar with the Nifti file format and understand what kinds of data 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_07_2024_Module2_NB1_BraTS_DataProcessing.ipynb)
 ### Notebook 2: Brain tumor segmentation 
 Goal: Learn how to build a deep learning segmentation algorithm in Keras. <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module2/03_12_2024_Module2_NB2_BraTS_TumorSegmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring-2025/Module2/03_12_2024_Module2_NB2_BraTS_TumorSegmentation.ipynb)
