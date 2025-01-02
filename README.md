@@ -43,15 +43,15 @@ Goal: Reinforce the basics of convolutional neural network via PET vs MRI simple
 
 ### Module 1, Notebook 1: Data Processing for ADNI MRI 
 Goal: Learn how to navigate the data processing pipeline. Get familiar with a deep learning dataset and what it looks like. <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_20_2024_Module1_NB1_ADNI_Dataset.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring-2025/Module1/02_18_2025_Module1_NB1_ADNI_Dataset.ipynb)
 
 ### Module 1, Notebook 2: AD classification deep learning notebook 
 Goal: Build a classifier that actually solves a real data problem. <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_22_2024_Module2_NB2_ADNI_ADClassification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring-2025/Module1/02_20_2025_Module1_NB2_ADNI_ADClassification.ipynb)
 
 ### Module 1, Notebook 3: Implementing regularization techniques in Keras models
 Goal: Understand the ways to code regularization into neural nets. Understand how it impacts training. <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_29_2024_Regularization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring-2025/Module1/02_27_2025_Module1_NB3_Regularization.ipynb)
 
 # Module 2: Brain tumor segmentation 
 ### Module 2, Notebook 1: BraTS data processing
