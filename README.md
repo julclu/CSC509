@@ -55,7 +55,7 @@ Goal: Build a classifier that actually solves a real data problem. <br>
 
 ### Module 1, Notebook 3: Implementing regularization techniques in Keras models
 Goal: Understand the ways to code regularization into neural nets. Understand how it impacts training. <br> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring-2025/Module1/02_27_2025_Module1_NB3_Regularization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julclu/CSC509/blob/spring_2024/Module1/02_29_2024_Regularization.ipynb)
 
 
 # Module 2: Brain tumor segmentation 
